@@ -1,7 +1,7 @@
 ## Purpose of the Project
-The purpose of this project was to use data collected from the point of sales (POS) for a small start-up in Portland, OR in order to gain business insights for the company's future. The areas explored include sales trends, product popularity, sections of the store, and profit margins. 
+The purpose of this project was to use data collected from the point of sales (POS) of a small start-up in Portland, OR in order to gain business insights the company can use for future growth. The areas explored include sales, store sections, products, and items. 
 
-This project looks at the data for the first 1 year and 9 months of the company's life. Analysis will provide insight on what actions the company should take around product curation and store sections moving forward. 
+This project looks at the data for just under the first two years of the company's life. Analysis will provide insight on what actions the company should take around product curation and store sections moving forward. 
 
 
 ## KPIs
