@@ -49,3 +49,16 @@ In order to understand the data, I have created a data dictionary. A data dictio
 Another helpful way to understand the data is with an Entity Relationship Diagram (ERD). An ERD shows how the tables (entities) in a database relate to one another. The following ERD was created using the Google Drive diagram editor, draw.io:
 
 ![](future image link here)
+
+
+#### Objective 2.
+
+
+#### Objective 3.
+
+
+#### Objective 4.
+
+
+
+## Summary
