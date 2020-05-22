@@ -22,4 +22,4 @@ In order to understand the data, I have created a data dictionary. A data dictio
 
 Another helpful way to understand the data is with an Entity Relationship Diagram (ERD). An ERD shows how the tables (entities) in a database relate to one another. The following ERD was created using the Google Drive diagram editor, draw.io:
 
-![](https://github.com/sibineejokela/Store_Data_May2020/blob/master/image_tests/Test_ERD.png)
+![](future image link here)
