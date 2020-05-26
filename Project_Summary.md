@@ -65,6 +65,9 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 
 #### Objective 2.
 
+![](future image link here)
+
+* 
 
 #### Objective 3.
 
