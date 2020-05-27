@@ -41,7 +41,7 @@ This project looks at the data for just under the first two years of the company
 
 
 ## Analysis
-#### Objective 1.
+#### Objective 1. Data Details
 The data dictionary provides information on the database including the contents, structure, format and relationship of the elements to aid in understanding the data. Below is the data dictionary for this project:
 
 ![](future image link here)
@@ -63,7 +63,7 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
   * 
 
 
-#### Objective 2.
+#### Objective 2. Sales
 
 * In order to calculate the Year-Over-Year growth of the company, June - December were taking into consideration for YOY growth between 2018 and 2019 as business began in June 2018. For YOY growth between 2019 and 2020, only January and February were examined as March and April numbers were negative due to COVID-19. YOY growth under these stipulations can be seen in the following image:
 
@@ -87,10 +87,10 @@ Due to the lack of consistency between months considered for each year, the grow
 * Based on 2019, March, August, and December would be the best months to focus on advertising campaigns or other extra expenses as these months brought in the highest profits. Advertising efforts may help drive up profits for months following these three. Additionally, this data can be used to prepare inventory for the aforementioned months as this is when sales are highest. 
 
 
-#### Objective 3.
+#### Objective 3. Tag (Section)
 
 
-#### Objective 4.
+#### Objective 4. Product
 
 
 
