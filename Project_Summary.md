@@ -67,7 +67,7 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 
 * In order to calculate the Year-Over-Year growth of the company, June - December were taking into consideration for YOY growth between 2018 and 2019 as business began in June 2018. For YOY growth between 2019 and 2020, only January and February were examined as March and April numbers were negative due to COVID-19. YOY growth under these stipulations can be seen in the following image:
 
-![YOY Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png =100x)
+![YOY Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png){:height="50px"}
 
 Due to the lack of consistency between months considered for each year, the growth numbers cannot be directly compared. When observing growth between specific months from year to year, June, July, and August show the highest growth numbers. This may be due to either seasonal shopping trends or overall growth from the companies inception. Monthly growth is displayed below:
 
