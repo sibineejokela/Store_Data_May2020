@@ -67,22 +67,27 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 
 * In order to calculate the Year-Over-Year growth of the company, June - December were taking into consideration for YOY growth between 2018 and 2019 as business began in June 2018. For YOY growth between 2019 and 2020, only January and February were examined as March and April numbers were negative due to COVID-19. YOY growth under these stipulations can be seen in the following image:
 
-![YOY Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png)
+<!-- ![YOY Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png) -->
+<img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png" width="325">
 
 Due to the lack of consistency between months considered for each year, the growth numbers cannot be directly compared. When observing growth between specific months from year to year, June, July, and August show the highest growth numbers. This may be due to either seasonal shopping trends or overall growth from the companies inception. Monthly growth is displayed below:
 
-![Monthly Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png) 
+<!-- ![Monthly Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png) -->
+<img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png" width="375">
 
 -----
-![2018 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2018.png) ![2019 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2019.png)  ![2020 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2020.png) 
+![2018 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2018.png) ![2019 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2019.png)  ![2020 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2020.png)
+
 
 * Considering morning sales, in 2018, highest sales varied between 12-2pm; in 2019, highest sales were from 12-1pm; in 2020, sales were trending toward 1-2pm being highest again. Considering evening sales, in 2018, sales slowly tapered off until close at 7pm; however, in 2019, sales saw an uptick from 5-6pm with a sharp drop due to a 6pm closing time; for 2020, the trend appeared as an uptick between 4-5pm. Sales may have continued to increase between 6-7pm in 2019 however, in 2020 it appears 
-  * Staffing should reflect the trends above. Moving forward, if an increase in staffing is needed, overlap would best during early afternoon hours. Furthermore, when looking at trends between months, the following data from 2019 and 2020 demonstrates extra staffing for December, January, and fall evenings. Actual revenue numbers have been redacted but darker green indicates higher sales.
-  ![2019 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2019.png) ![2020 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2020.png)
+  * Staffing should reflect the trends above. Moving forward, if an increase in staffing is needed, overlap would best during early afternoon hours. Furthermore, when looking at trends between months, the following data from 2019 and 2020 demonstrates extra staffing for December, January, and fall evenings. Actual revenue numbers have been redacted but darker green boxes indicates higher sales.
+  <!-- ![2019 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2019.png) ![2020 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2020.png) -->
+  <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2019.png" height="220"> <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2020.png" height="220">
   * When thinking about ideal focus hours, fewer interruptions provide opportunity for better focus. Without the data for transactions per hour, revenue by hour provides an estimate for when transactions per hour were likely higher. In 2019, the best focus hours would have been between 3-5pm; in 2020, the best hour for focus seems to be trending toward 3:30-4:30pm.
   
 -----
-![2019 Gross Profit](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/gross_profit_2019.png)
+<!-- ![2019 Gross Profit](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/gross_profit_2019.png) -->
+<img style="margin:auto" src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/gross_profit_2019.png" width="700">
 
 * Based on 2019, March, August, and December would be the best months to focus on advertising campaigns or other extra expenses as these months brought in the highest profits. Advertising efforts may help drive up profits for months following these three. Additionally, this data can be used to prepare inventory for the aforementioned months as this is when sales are highest. 
 
