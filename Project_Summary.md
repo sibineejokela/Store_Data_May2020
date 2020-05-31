@@ -95,6 +95,15 @@ Due to the lack of consistency between months considered for each year, the grow
 
 #### Objective 3. Tag (Section)
 
+* The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
+
+![](future image link here) - Store_Sections_Rev
+![](future image link here) - Store_Sections_Items
+
+Other top sections for the store include Books, Cash Wrap, Desk Tools, Notebook/Bar, and Plants. The charts below compare the gross profit margin and items sold for these sections (including the four main sections for comparison). ...
+
+![](future image link here) - Additional_Store_Sections_Gross
+![](future image link here) - Additional_Store_Sections_Items
 
 #### Objective 4. Product
 
