@@ -100,10 +100,19 @@ Due to the lack of consistency between months considered for each year, the grow
 ![](future image link here) - Store_Sections_Rev
 ![](future image link here) - Store_Sections_Items
 
-Other top sections for the store include Books, Cash Wrap, Desk Tools, Notebook/Bar, and Plants. The charts below compare the gross profit margin and items sold for these sections (including the four main sections for comparison). ...
+Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journaling, Notebook/Bar, Plants and Travel. The charts below explore these sections but also include the four main sections from above for comparison purposes. Here, the travel section replicates the trends in the Focus and Time Management sections with a small number of items sold and high revenue. Therefore, another area the business could focus on for increased revenue is the Travel section.
 
-![](future image link here) - Additional_Store_Sections_Gross
-![](future image link here) - Additional_Store_Sections_Items
+![](future image link here) - Store_Sections_additional_Rev
+![](future image link here) - Store_Sections_additional_Items
+
+NOTE: Comparison of Gross to Revenue (only aggregate for gross) --> 2019, 2020 (for most relevant product)
+Although the data above takes revenue into consideration, the following charts show how higher revenue translates to gross profit margins. Gross profit was unable to be included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
+
+![](future image link here) - Store_Sections_Rev_all
+![](future image link here) - Store_Sections_Items_all
+
+NOTE: CYON much higher in the items sold; excluded due to improper revenue and profit measurements. 
+NOTE: Specific products discussed below:
 
 #### Objective 4. Product
 
