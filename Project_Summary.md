@@ -105,7 +105,7 @@ Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journ
 ![](future image link here) - Store_Sections_additional_Rev
 ![](future image link here) - Store_Sections_additional_Items
 
-NOTE: Comparison of Gross to Revenue (only aggregate for gross)
+NOTE: Comparison of Gross to Revenue (only aggregate for gross) --> 2019, 2020 (for most relevant product)
 Although the data above takes revenue into consideration, the following charts show how higher revenue translates to gross profit margins. Gross profit was unable to be included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
 
 ![](future image link here) - Store_Sections_Rev_all
