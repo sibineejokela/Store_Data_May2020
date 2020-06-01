@@ -97,19 +97,19 @@ Due to the lack of consistency between months considered for each year, the grow
 
 * The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
 
-![](future image link here) - Store_Sections_Rev
-![](future image link here) - Store_Sections_Items
+![Revenue in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev.png)
+![Items Sold in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Items.png)
 
 Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journaling, Notebook/Bar, Plants and Travel. The charts below explore these sections but also include the four main sections from above for comparison purposes. Here, the travel section replicates the trends in the Focus and Time Management sections with a small number of items sold and high revenue. Therefore, another area the business could focus on for increased revenue is the Travel section.
 
-![](future image link here) - Store_Sections_additional_Rev
-![](future image link here) - Store_Sections_additional_Items
+![Revenue in Additional Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_additional_Rev.png)
+![Items Sold in Additional Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_additional_Items.png)
 
 NOTE: Comparison of Gross to Revenue (only aggregate for gross) --> 2019, 2020 (for most relevant product)
 Although the data above takes revenue into consideration, the following charts show how higher revenue translates to gross profit margins. Gross profit was unable to be included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
 
-![](future image link here) - Store_Sections_Rev_all
-![](future image link here) - Store_Sections_Items_all
+![Yearly Revenue by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev_all.png) 
+![Yearly Gross Profit by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Items_all.png)
 
 NOTE: CYON much higher in the items sold; excluded due to improper revenue and profit measurements. 
 NOTE: Specific products discussed below:
