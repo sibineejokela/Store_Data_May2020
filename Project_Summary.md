@@ -41,7 +41,7 @@ This project looks at the data for just under the first two years of the company
 
 
 ## Analysis
-#### Objective 1. Data Details
+### Objective 1. Data Details
 The data dictionary provides information on the database including the contents, structure, format and relationship of the elements to aid in understanding the data. Below is the data dictionary for this project:
 
 ![](future image link here)
@@ -63,7 +63,7 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
   * 
 
 
-#### Objective 2. Sales
+### Objective 2. Sales
 
 * In order to calculate the Year-Over-Year growth of the company, June - December were taking into consideration for YOY growth between 2018 and 2019 as business began in June 2018. For YOY growth between 2019 and 2020, only January and February were examined as March and April numbers were negative due to COVID-19. YOY growth under these stipulations can be seen in the following image:
 
@@ -93,7 +93,7 @@ Due to the lack of consistency between months considered for each year, the grow
 * Based on 2019, March, August, and December would be the best months to focus on advertising campaigns or other extra expenses as these months brought in the highest profits. Advertising efforts may help drive up profits for months following these three. Additionally, this data can be used to prepare inventory for the aforementioned months as this is when sales are highest. 
 
 
-#### Objective 3. Tag (Section)
+### Objective 3. Tag (Section)
 
 * The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
 
@@ -106,15 +106,24 @@ Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journ
 ![Items Sold in Additional Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_additional_Items.png)
 
 NOTE: Comparison of Gross to Revenue (only aggregate for gross) --> 2019, 2020 (for most relevant product)
-Although the data above takes revenue into consideration, the following charts show how higher revenue translates to gross profit margins. Gross profit was unable to be included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
+Although the data above takes revenue into consideration, the following scatter plot shows the correlation between revenue and gross profit margins. Gross profit was not included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
 
-![Yearly Revenue by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev_all.png) 
-![Yearly Gross Profit by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Items_all.png)
+![Yearly Revenue vs Gross Profit by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev_vs_GP.png) 
 
 NOTE: CYON much higher in the items sold; excluded due to improper revenue and profit measurements. 
 NOTE: Specific products discussed below:
 
-#### Objective 4. Product
+-----
+
+* 
+
+-----
+
+* Although the exact square footage per section is unavailable, the size of the sections are as follows (from largest to smallest):
+
+
+
+### Objective 4. Product
 
 
 
