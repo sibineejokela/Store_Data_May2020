@@ -60,10 +60,12 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
   * Store hours were 10am - 6pm from __________; from _________, store hours were 11am - 6pm. Monthly workshops also provided one or more days a month where store hours extended to 8pm.
   * During the holidays in 2018, hours varied outside of those listed above. Also, revenue includes online sales which were not constricted to any specific timeframe.
   * The section listed as "blank" is a catch all for manually entered sales and therefore does not reflect an accurate gross profit as cost of good sold is not recorded.
-  * 
+  * The Build-A-Notebook section of the store was excluded from analysis due to inaccurate data records regarding profit and loss.
 
 
 ### Objective 2. Sales
+
+#### YOY Sales Growth
 
 * In order to calculate the Year-Over-Year growth of the company, June - December were taking into consideration for YOY growth between 2018 and 2019 as business began in June 2018. For YOY growth between 2019 and 2020, only January and February were examined as March and April numbers were negative due to COVID-19. YOY growth under these stipulations can be seen in the following image:
 
@@ -76,6 +78,8 @@ Due to the lack of consistency between months considered for each year, the grow
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png" width="375">
 
 -----
+#### Hourly Sales Data
+
 ![2018 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2018.png) ![2019 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2019.png)  ![2020 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2020.png)
 
 
@@ -87,6 +91,8 @@ Due to the lack of consistency between months considered for each year, the grow
   * When thinking about ideal focus hours, fewer interruptions provide opportunity for better focus. Without the data for transactions per hour, revenue by hour provides an estimate for when transactions per hour were likely higher. In 2019, the best focus hours would have been between 3-5pm; in 2020, the best hour for focus seems to be trending toward 3:30-4:30pm.
   
 -----
+#### Monthly Gross Profit and Revenue
+
 <!-- ![2019 Gross Profit](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/gross_profit_2019.png) -->
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/gross_profit_2019.png" width="700">
 
@@ -95,10 +101,14 @@ Due to the lack of consistency between months considered for each year, the grow
 
 ### Objective 3. Tag (Section)
 
+#### Main Store Sections
+
 * The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
 
 ![Revenue in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev.png)
 ![Items Sold in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Items.png)
+
+#### Additional Best Selling Sections
 
 Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journaling, Notebook/Bar, Plants and Travel. The charts below explore these sections but also include the four main sections from above for comparison purposes. Here, the travel section replicates the trends in the Focus and Time Management sections with a small number of items sold and high revenue. Therefore, another area the business could focus on for increased revenue is the Travel section.
 
@@ -124,6 +134,16 @@ NOTE: Specific products discussed below:
 
 
 ### Objective 4. Product
+
+#### Products by Section
+
+* The top revenue earning sections from 2018 - 2020 can be seen in the treemap below. As echoed in the analysis above, the Time Management section is at the very top. However, what gets interesting is when only the top five products are considered instead of all products within the section.
+
+![Revenue by Section 2018-2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections.png)
+
+
+
+![Revenue by Section and Product 2018-2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_and_Products.png)
 
 
 
