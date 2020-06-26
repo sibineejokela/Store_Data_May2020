@@ -147,6 +147,8 @@ When only the top five products per section are considered, the top revenue earn
 
 #### Products by Weekday
 
+![Top Ten Products for each Weekday 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_Weekday.png)
 
+![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png)
 
 ## Summary
