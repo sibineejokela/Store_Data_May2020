@@ -137,13 +137,15 @@ NOTE: Specific products discussed below:
 
 #### Products by Section
 
-* The top revenue earning sections from 2018 - 2020 can be seen in the treemap below. As echoed in the analysis above, the Time Management section is at the very top. However, what gets interesting is when only the top five products are considered instead of all products within the section.
+* The top revenue earning sections from 2018 - 2020 can be seen in the treemap below. As echoed in the analysis above, the Time Management section is at the very top. However, what's interesting is when only the top five products are considered instead of all products within the section (as seen in the second treemap).
 
 ![Revenue by Section 2018-2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections.png)
 
-
+When only the top five products per section are considered, the top revenue earning sections change drastically. This means that the top five products from the plants section bring in more revenue than the top five products from the time management section (for example). In order to increase revenue, the company could focus on and highlight these top five products for each section. Futhermore, this data has implications for products selected for an online arena. Having fewer products available but products that are top revenue earners can help with curation for an online store. 
 
 ![Revenue by Section and Product 2018-2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_and_Products.png)
+
+#### Products by Weekday
 
 
 
