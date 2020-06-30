@@ -29,7 +29,8 @@ This project looks at the data for just under the first two years of the company
 * What are the Sales per Square Feet for each section?
 
 #### 4. Product
-* What specific products should the business focus on so revenue can increase without having costs increase, thereby leading to larger profit margins?
+* What specific products should the business focus in different sections so revenue can increase without having costs increase, thereby leading to larger profit margins?
+* What products sell best on different days of the week? Which specific products sell best overall when not categorized by section?
 * How should the business approach product display for different days of the week? (2A)
 * ((Products by month?))
 
@@ -147,14 +148,15 @@ When only the top five products per section are considered, the top revenue earn
 
 #### Products by Weekday
 
-Since we lack complete data for the full years of 2018 and 2020, 2019 was used to get a snapshot for top earning products by weekday. This data can be used to determine what items to feature both instore and on digital marketing platforms. Additionally, this data can be used to curate mystery boxes to contain best selling products or determining when to hold sales and which products to include in these sales.
+Since we lack complete data for the full years of 2018 and 2020, 2019 was used to get a snapshot for top revenue earning products by weekday. This data can be used to determine what items to feature both instore and on digital marketing platforms. Additionally, this data can be used to curate mystery boxes to contain best selling products or determining when to hold sales and which products to include in these sales. 
 
-A couple key observations are that more Poketo Angie Weekender Bags and plants sell Friday-Sunday, workshops sell in-person most on Wednesdays, and goal-setting items sell best on Monday.
+Looking at specific items helps further explore these ideas. A few key observations are that Poketo Angie Weekender Bags and plants bring in most revenue Friday-Sunday, workshops sell in-person more on Wednesdays, and goal-setting items are top revenue earners on Mondays. The Nuuna Hot Hot Dot A5, The 90 Day Gratitude Journal, and Resilient Management are other products that are top revenue earners for multiple days of the week. These three products would be good items to feature both instore and online. Smaller items to feature or add to mystery boxes include frixion pens or le pens. As previously mentioned, MiGoals Goals Journal and Goal Tracker Packs are top revenue earners on Mondays. The company may consider running a sale on goal-setting items on a Monday in the future.
 
 ![Top Ten Products for each Weekday 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_Weekday.png)
 
 When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded in analysis above due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section considered as a whole. From this product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenues every day (as shown above). 
 
-![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png)
+<!-- ![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png) -->
+<img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png" width="600">
 
 ## Summary
