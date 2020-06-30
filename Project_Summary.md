@@ -147,7 +147,13 @@ When only the top five products per section are considered, the top revenue earn
 
 #### Products by Weekday
 
+Since we lack complete data for the full years of 2018 and 2020, 2019 was used to get a snapshot for top earning products by weekday. This data can be used to determine what items to feature both instore and on digital marketing platforms. Additionally, this data can be used to curate mystery boxes to contain best selling products or determining when to hold sales and which products to include in these sales.
+
+A couple key observations are that more Poketo Angie Weekender Bags and plants sell Friday-Sunday, workshops sell in-person most on Wednesdays, and goal-setting items sell best on Monday.
+
 ![Top Ten Products for each Weekday 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_Weekday.png)
+
+When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded in analysis above due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section considered as a whole. From this product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenues every day (as shown above). 
 
 ![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png)
 
