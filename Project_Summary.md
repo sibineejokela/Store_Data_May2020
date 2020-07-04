@@ -58,10 +58,9 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 * The ERD demonstrates how the tables are related. The Product_SKU is used as a primary key to connect the Product, Weekly Revenue, Daily Revenue, and Monthly Item Count tables. Tag is used to connect the Weekly Item Count and Tag / Section tables and Hourly Sales stands alone for analyses.
 
 * Other important considerations when reviewing the report:
-  * Store hours were 10am - 6pm from __________; from _________, store hours were 11am - 6pm. Monthly workshops also provided one or more days a month where store hours extended to 8pm.
+  * Store hours were 10am - 6pm until September 9th, 2019, after which store hours were 11am - 6pm. Monthly workshops also provided one or more days a month where store hours extended to 8pm. For most months these workshops fell on Wednesdays.
   * During the holidays in 2018, hours varied outside of those listed above. Also, revenue includes online sales which were not constricted to any specific timeframe.
-  * The section listed as "blank" is a catch all for manually entered sales and therefore does not reflect an accurate gross profit as cost of good sold is not recorded.
-  * The Build-A-Notebook section of the store was excluded from analysis due to inaccurate data records regarding profit and loss.
+  * The Build-A-Notebook section of the store was excluded from most analysis due to inaccurate data records regarding profit and loss. The inaccuracies resulted from the way revenue was tracked within the BAN section. Specifically, losses were recorded for each packet that made up each notebook resulting in inaccurately high losses.
 
 
 ### Objective 2. Sales
@@ -154,9 +153,20 @@ Looking at specific items helps further explore these ideas. A few key observati
 
 ![Top Ten Products for each Weekday 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_Weekday.png)
 
-When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded in analysis above due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section considered as a whole. From this product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenues every day (as shown above). 
+When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded in analysis above due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section considered as a whole. From this individual product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenues every day (as shown above). 
 
 <!-- ![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png) -->
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png" width="600">
 
 ## Summary
+
+Overall, the following insights can be gathered from the analysis discussed above:
+* avg YOY growth
+* Store Hours
+* Focus Time
+* Focus & travel sections
+* Top sections by top products
+* Individual products
+
+Recommendations for the company moving forward are as follows:
+* 
