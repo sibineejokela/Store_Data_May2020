@@ -72,7 +72,7 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 <!-- ![YOY Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png) -->
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/YOY_growth.png" width="325">
 
-Due to the lack of consistency between months considered for each year, the growth numbers cannot be directly compared. When observing growth between specific months from year to year, June, July, and August show the highest growth numbers. This may be due to either seasonal shopping trends or overall growth from the companies inception. Monthly growth is displayed below:
+Due to the lack of consistency between months considered for each year, the growth numbers cannot be directly compared. When observing growth between specific months from year to year, June, July, and August show the highest growth numbers. This may be due to either seasonal shopping trends or overall growth from the company's inception. Monthly growth is displayed below:
 
 <!-- ![Monthly Growth](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png) -->
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Monthly_growth.png" width="375">
@@ -83,12 +83,12 @@ Due to the lack of consistency between months considered for each year, the grow
 ![2018 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2018.png) ![2019 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2019.png)  ![2020 Hourly Chart](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_chart_2020.png)
 
 
-* Considering morning sales, in 2018, highest sales varied between 12-2pm; in 2019, highest sales were from 12-1pm; in 2020, sales were trending toward 1-2pm being highest again. Considering evening sales, in 2018, sales slowly tapered off until close at 7pm; however, in 2019, sales saw an uptick from 5-6pm with a sharp drop due to a 6pm closing time; for 2020, the trend appeared as an uptick between 4-5pm. Sales may have continued to increase between 6-7pm in 2019 however, in 2020 it appears 
-  * Staffing should reflect the trends above. Moving forward, if an increase in staffing is needed, overlap would best during early afternoon hours. Furthermore, when looking at trends between months, the following data from 2019 and 2020 demonstrates extra staffing for December, January, and fall evenings. Actual revenue numbers have been redacted but darker green boxes indicates higher sales.
+* Considering morning sales, in 2018, highest sales varied between 12-2pm; in 2019, highest sales were from 12-1pm; in 2020, sales were trending toward 1-2pm being highest again. Considering evening sales, in 2018, sales slowly tapered off until close at 7pm; however, in 2019, sales saw an uptick from 5-6pm with a sharp drop due to a 6pm closing time; for 2020, the trend appeared as an uptick between 4-5pm. Sales may have continued to increase between 6-7pm in 2019, however, in 2020 it appears the second sales peak had concluded by closing time at 6pm. 
+  * Staffing should reflect the trends above. Moving forward, if an increase in staffing is needed, overlap would best during early afternoon hours. Furthermore, when looking at trends between months, the following data from 2019 and 2020 demonstrates extra staffing for December, January, and fall evenings. Actual revenue numbers have been redacted to respect company privacy but darker green boxes indicate higher sales.
   <!-- ![2019 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2019.png) ![2020 Hourly Table](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2020.png) -->
   <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2019.png" width="648"> <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Hourly_table_2020.png" width="231">
 
-  * When thinking about ideal focus hours, fewer interruptions provide opportunity for better focus. Without the data for transactions per hour, revenue by hour provides an estimate for when transactions per hour were likely higher. In 2019, the best focus hours would have been between 3-5pm; in 2020, the best hour for focus seems to be trending toward 3:30-4:30pm.
+  * When thinking about ideal focus hours, fewer interruptions provide opportunity for better focus. Without data for transactions per hour, revenue by hour provides an estimate for when transactions per hour were likely higher. In 2019, the best focus hours would have been between 3-5pm; in 2020, the best hour for focus is trending toward 3-4pm.
   
 -----
 #### Monthly Gross Profit and Revenue
@@ -103,7 +103,7 @@ Due to the lack of consistency between months considered for each year, the grow
 
 #### Main Store Sections
 
-* The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
+* The four main sections of the store are Focus, Motivation, Organization and Time Management. Year-to-year and, for the most part, month-to-month, Time Mangement has been the most successful section of the store. Comparing the two charts below also shows that revenue return is high as the number of items sold is comparable to other sections yet the revenue is much higher. The more interesting section is the focus section. This number of items sold from this section is consistently fewer than other sections, however, the revenue returned in this section is as higher or higher than others. Therefore, the business should focus on sales in the Focus section to increase revenue with least cost increases. 
 
 ![Revenue in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev.png)
 ![Items Sold in Main Store Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Items.png)
@@ -115,8 +115,7 @@ Other top sections for the store include Books, Cash Wrap, Desk Tools, Dot Journ
 ![Revenue in Additional Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_additional_Rev.png)
 ![Items Sold in Additional Sections](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_additional_Items.png)
 
-NOTE: Comparison of Gross to Revenue (only aggregate for gross) --> 2019, 2020 (for most relevant product)
-Although the data above takes revenue into consideration, the following scatter plot shows the correlation between revenue and gross profit margins. Gross profit was not included in the above analysis due to the limitations of the data. Only the yearly aggregate of gross profit was available.
+The data above takes revenue into consideration, however, gross profit is the more important measure. Gross profit was not included in the above analysis due to the limitations of the data. Specifically, only the yearly aggregate of gross profit was available. However, the following scatter plot shows the correlation between revenue and gross profit margins, indicating that a higher revenue is also indicative of a higher gross profit.  
 
 ![Yearly Revenue vs Gross Profit by Sections 2019, 2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections_Rev_vs_GP.png) 
 
@@ -137,7 +136,7 @@ NOTE: Specific products discussed below:
 
 #### Products by Section
 
-* The top revenue earning sections from 2018 - 2020 can be seen in the treemap below. As echoed in the analysis above, the Time Management section is at the very top. However, what's interesting is when only the top five products are considered instead of all products within the section (as seen in the second treemap).
+* The top revenue earning sections from 2018 - 2020 can be seen in the treemap below. As echoed in the analysis above, the Time Management section is at the very top. However, this trend changes when only the top five products are considered instead of all products within the section. These differences are discussed below.
 
 ![Revenue by Section 2018-2020](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Store_Sections.png)
 
@@ -147,26 +146,30 @@ When only the top five products per section are considered, the top revenue earn
 
 #### Products by Weekday
 
-Since we lack complete data for the full years of 2018 and 2020, 2019 was used to get a snapshot for top revenue earning products by weekday. This data can be used to determine what items to feature both instore and on digital marketing platforms. Additionally, this data can be used to curate mystery boxes to contain best selling products or determining when to hold sales and which products to include in these sales. 
+Since we lack complete data for the full years of 2018 and 2020, 2019 was used to get a snapshot for top revenue earning products by weekday. This data can be used to determine what items to feature both in-store and on digital marketing platforms. Additionally, this data can be used to curate mystery boxes to contain best selling products or determine when to hold sales and which products to include in these sales. 
 
-Looking at specific items helps further explore these ideas. A few key observations are that Poketo Angie Weekender Bags and plants bring in most revenue Friday-Sunday, workshops sell in-person more on Wednesdays, and goal-setting items are top revenue earners on Mondays. The Nuuna Hot Hot Dot A5, The 90 Day Gratitude Journal, and Resilient Management are other products that are top revenue earners for multiple days of the week. These three products would be good items to feature both instore and online. Smaller items to feature or add to mystery boxes include frixion pens or le pens. As previously mentioned, MiGoals Goals Journal and Goal Tracker Packs are top revenue earners on Mondays. The company may consider running a sale on goal-setting items on a Monday in the future.
+Looking at specific items helps further explore these ideas. A few key observations are that Poketo Angie Weekender Bags and plants bring in most revenue Friday-Sunday, workshops sell in-person more on Wednesday, and goal-setting items are top revenue earners on Monday. The Nuuna Hot Hot Dot A5, The 90 Day Gratitude Journal, and Resilient Management are other products that are top revenue earners for multiple days of the week. These three products would be good items to feature both in-store and online. Smaller items to feature or add to mystery boxes include frixion pens and le pens. As previously mentioned, the MiGoals Goals Journal and Goal Tracker Packs are top revenue earners on Mondays. The company may consider running a sale on goal-setting items on a Monday in the future.
 
 ![Top Ten Products for each Weekday 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_Weekday.png)
 
-When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded in analysis above due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section considered as a whole. From this individual product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenues every day (as shown above). 
+When considering all days of the week together, the top ten revenue earning products in 2019 are as shown below. As previously mentioned, the Build-a-Notebook products were excluded from earlier analysis due to incorrect profit and sales data. It has been included here because isolated single products do not face the same flaws in the data as the BAN section does when considered as a whole. From this individual product analysis, one can see how well the $36 Build-a-Notebook sells as it is the second revenue earner when all days of the week are considered and is also in the top ten revenue earning product list every day (as shown above). 
 
 <!-- ![Top Ten Products 2019](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png) -->
 <img src="https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Products_All.png" width="600">
 
 ## Summary
 
-Overall, the following insights can be gathered from the analysis discussed above:
-* avg YOY growth
-* Store Hours
-* Focus Time
-* Focus & travel sections
-* Top sections by top products
-* Individual products
+The following insights are a quick snapshot of the discussion above:
+* *Year-Over-Year growth* was **61% in 2019** (considering June - December) and **48% in 2020** (considering January - February)
+* *Highest sales* occured between **12pm - 2pm** and again from **4pm - 6pm** with slight variation between years (2018 - 2020)
+* Employees will be likely be least interrupted between 3pm - 4pm and therefore should plan *focus tasks* during this hour.
+* Two areas the company could focus on to increase sales without huge increases in cost are the **Focus and Travel sections**
+* Product analysis shows the *Time Management* section brings in the most revenue from all product sales. However, when considering only the top five products per section, the *Plants* section brings in the most revenue. These specific products can be found under Objective 4 above.
+* The standard Build-a-Notebook offering was the second highest revenue earning product in 2019 (after general pens).
 
 Recommendations for the company moving forward are as follows:
-* 
+* Double staff store 12 - 2 (+ fall evenings & winter holidays)
+* Schedule focus 3 - 4
+* Highlight products in the Focus and Travel sections. Starting with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards from the Focus section and Casio Watches and Habit Tracker Packs in the Travel section.
+* Utilize the Top Ten Revenue Earning Sections based on the Top Five Revenue Earning Products treemap to curate online store items
+* Use the Top Ten Revenue Earners (all days) to choose products to highlight
