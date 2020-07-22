@@ -45,7 +45,7 @@ This project looks at the data for just under the first two years of the company
 ### Objective 1. Data Details
 The data dictionary provides information on the database including the contents, structure, format and relationship of the elements to aid in understanding the data. Below is the data dictionary for this project:
 
-![](future image link here)
+![Data Dictionary](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Data_Dictionary.png)
 
 * The data dictionary shows that although the data analyzed covers January 2018 - April 2020, not all months are important for analysis. Most analyses use data from June 2018 - February 2020, while sales analyses use data from June 2018 - April 2020. February 2018 - May 2018 are excluded as no sales were recorded those months.
 
