@@ -21,24 +21,15 @@ This project looks at the data for just under the first two years of the company
 #### 2. Sales
 * What is the Year-Over-Year (YOY) Growth of the company?
 * What hours of the day are sales the highest and what insight does this provide for staffing? Which hours are most likely to be best for focus time?
-* What months should the business focus on advertising and other additional optional costs? (1A)
+* What months should the business focus on advertising and other additional optional costs?
 
 #### 3. Tag (Section)
-* What sections of the store should the business focus on so revenue can increase without having costs increase, thereby leading to larger profit margins?
-* How did changing the store layout affect sales for each section of the store, paying specific attention to the Organization section?
-* What are the Sales per Square Feet for each section?
+* What main sections of the store should the business focus on so revenue can increase without having costs increase, thereby leading to larger profit margins?
+* What additional sections of the store should the business focus on so revenue can increase without having costs increase, thereby leading to larger profit margins?
 
 #### 4. Product
 * What specific products should the business focus in different sections so revenue can increase without having costs increase, thereby leading to larger profit margins?
 * What products sell best on different days of the week? Which specific products sell best overall when not categorized by section?
-* How should the business approach product display for different days of the week? (2A)
-* ((Products by month?))
-
-#### 5. Item
-* Which sections are overcrowded with items and which should the business focus on to curate the best choices for customers?
-* What is the ideal number of items per section to return the best profit margin?
-* Which section can the business expect to have the highest number of visitors and thereby accomodate with appropriate square footage?
-* How can the business maximize inventory storage and plan an appropriate amount of space for each section?
 
 
 ## Analysis
@@ -47,7 +38,7 @@ The data dictionary provides information on the database including the contents,
 
 ![Data Dictionary](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Data_Dictionary.png)
 
-* The data dictionary shows that although the data analyzed covers January 2018 - April 2020, not all months are important for analysis. Most analyses use data from June 2018 - February 2020, while sales analyses use data from June 2018 - April 2020. February 2018 - May 2018 are excluded as no sales were recorded those months.
+* The data analyzed covers January 2018 - April 2020, however, not all months are important for analysis. Most analyses use data from June 2018 - February 2020, while sales analyses use data from June 2018 - April 2020. February 2018 - May 2018 are excluded as no sales were recorded those months.
 
 * The main sections of the store are found under "Tag" (time management, motivation, focus, and organization). Other sections will be listed in the legend of the respective analysis.
 
@@ -55,11 +46,11 @@ Another helpful way to understand the data is with an Entity Relationship Diagra
 
 ![Entity Relationship Diagram](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/ERD.png)
 
-* The ERD demonstrates how the tables are related. The Product_SKU is used as a primary key to connect the Product, Weekly Revenue, Daily Revenue, and Monthly Item Count tables. Tag is used to connect the Weekly Item Count and Tag / Section tables and Hourly Sales stands alone for analyses.
+* The ERD demonstrates how the tables are related. The Product_SKU is used as a primary key to connect the Product, Yearly Revenue, Weekday Revenue, and Monthly Item Count tables. The Monthly Tag Revenue and Hourly Revenue tables stand alone for analyses.
 
 * Other important considerations when reviewing the report:
   * Store hours were 10am - 6pm until September 9th, 2019, after which store hours were 11am - 6pm. Monthly workshops also provided one or more days a month where store hours extended to 8pm. For most months these workshops fell on Wednesdays.
-  * During the holidays in 2018, hours varied outside of those listed above. Also, revenue includes online sales which were not constricted to any specific timeframe.
+  * During the holidays in 2018, hours varied outside of those listed above. Also, revenue includes some online sales which were not constricted to any specific timeframe.
   * The Build-A-Notebook section of the store was excluded from most analysis due to inaccurate data records regarding profit and loss. The inaccuracies resulted from the way revenue was tracked within the BAN section. Specifically, losses were recorded for each packet that made up each notebook resulting in inaccurately high losses.
 
 
@@ -124,12 +115,6 @@ NOTE: Specific products discussed below:
 
 -----
 
-* 
-
------
-
-* Although the exact square footage per section is unavailable, the size of the sections are as follows (from largest to smallest):
-
 
 
 ### Objective 4. Product
@@ -167,7 +152,7 @@ The following insights are a quick snapshot of the discussion above:
 * Product analysis shows the *Time Management* section brings in the most revenue from all product sales. However, when considering only the top five products per section, the *Plants* section brings in the most revenue. These specific products can be found under Objective 4 above.
 * The standard **Build-a-Notebook** offering was the *second highest revenue earning product* in 2019 (after general pens).
 
-Recommended actions for the company moving forward are as follows:
+#### Recommended actions for the company moving forward are as follows:
 * Double staff store 12 - 2 (+ fall evenings & winter holidays)
 * Schedule focus 3 - 4
 * Highlight products in the Focus and Travel sections. Starting with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards from the Focus section and Casio Watches and Habit Tracker Packs in the Travel section.
