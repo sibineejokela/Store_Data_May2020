@@ -53,7 +53,7 @@ The data dictionary provides information on the database including the contents,
 
 Another helpful way to understand the data is with an Entity Relationship Diagram (ERD). An ERD shows how the tables (entities) in a database relate to one another. The following ERD was created using the Google Drive diagram editor, draw.io:
 
-![](future image link here)
+![Entity Relationship Diagram](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/ERD.png)
 
 * The ERD demonstrates how the tables are related. The Product_SKU is used as a primary key to connect the Product, Weekly Revenue, Daily Revenue, and Monthly Item Count tables. Tag is used to connect the Weekly Item Count and Tag / Section tables and Hourly Sales stands alone for analyses.
 
