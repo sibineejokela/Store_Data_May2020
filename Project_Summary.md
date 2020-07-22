@@ -165,9 +165,9 @@ The following insights are a quick snapshot of the discussion above:
 * Employees will be likely be least interrupted between 3pm - 4pm and therefore should plan *focus tasks* during this hour.
 * Two areas the company could focus on to increase sales without huge increases in cost are the **Focus and Travel sections**
 * Product analysis shows the *Time Management* section brings in the most revenue from all product sales. However, when considering only the top five products per section, the *Plants* section brings in the most revenue. These specific products can be found under Objective 4 above.
-* The standard Build-a-Notebook offering was the second highest revenue earning product in 2019 (after general pens).
+* The standard **Build-a-Notebook** offering was the *second highest revenue earning product* in 2019 (after general pens).
 
-Recommendations for the company moving forward are as follows:
+Recommended actions for the company moving forward are as follows:
 * Double staff store 12 - 2 (+ fall evenings & winter holidays)
 * Schedule focus 3 - 4
 * Highlight products in the Focus and Travel sections. Starting with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards from the Focus section and Casio Watches and Habit Tracker Packs in the Travel section.
