@@ -1,5 +1,5 @@
 ## Purpose of the Project
-The purpose of this project was to use data collected from the point of sales (POS) of a small start-up in Portland, OR in order to gain business insights the company can use for future growth. The areas explored include sales, store sections, products, and items. This report captures the questions explored and analyses performed using Excel. 
+The purpose of this project was to use data collected from the point of sales (POS) of a small start-up in Portland, OR in order to gain business insights the company can use for future growth. The areas explored include sales, store sections and products. This report captures the questions explored and analyses performed using Excel. 
 
 This project looks at the data for just under the first two years of the company's life. Analysis will provide insight on what actions the company should take around product curation and store sections moving forward. 
 
@@ -146,15 +146,17 @@ When considering all days of the week together, the top ten revenue earning prod
 The following insights are a quick snapshot of the discussion above:
 * *Year-Over-Year growth* was **61% in 2019** (considering June - December) and **48% in 2020** (considering January - February)
 * *Highest sales* occured between **12pm - 2pm** and again from **4pm - 6pm** with slight variation between years (2018 - 2020)
-* Employees will be likely be least interrupted between 3pm - 4pm and therefore should plan *focus tasks* during this hour.
+* Employees will be likely be least interrupted between 3pm - 4pm and therefore should plan *focus tasks* during this hour
+* *Revenue* and *Gross Profit* were highest in March, August and December
 * Two areas the company could focus on to increase sales without huge increases in cost are the **Focus and Travel sections**
-* Product analysis shows the *Time Management* section brings in the most revenue from all product sales. However, when considering only the top five products per section, the *Plants* section brings in the most revenue. These specific products can be found under Objective 4 above.
-* The standard **Build-a-Notebook** offering was the *second highest revenue earning product* in 2019 (after general pens).
+* Product analysis shows the *Time Management* section brings in the most revenue from all product sales. However, when considering only the top five products per section, the *Plants* section brings in the most revenue. These specific products can be found under Objective 4 above
+* The standard **Build-a-Notebook** offering was the *second highest revenue earning product* in 2019 (after general pens)
 
 #### Recommended actions for the company moving forward are as follows:
 * Double staff the store between 12pm - 2pm on an average day 
 * Double staff the store during December and January, and analyze hourly sales data by weekday to determine staffing specifics
 * Plan in-store focus time between 3 - 4pm
+* Plan advertising campaigns or other additional expenses for the months of March, August and December
 * Highlight products from the Focus and Travel sections in-store and/or on social media
   * From the Focus section, start with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards
   * From the Travel section, start with Casio Watches and Habit Tracker Packs
