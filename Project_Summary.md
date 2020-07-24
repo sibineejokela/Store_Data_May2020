@@ -5,9 +5,8 @@ This project looks at the data for just under the first two years of the company
 
 
 ## KPIs
-* Sales per Square Feet
 * Year-Over-Year (YOY) Growth
-* Gross Profit vs Net Profit
+* Revenue vs Gross Profit
 
 
 ## Objectives
@@ -34,7 +33,7 @@ This project looks at the data for just under the first two years of the company
 
 ## Analysis
 ### Objective 1. Data Details
-The data dictionary provides information on the database including the contents, structure, format and relationship of the elements to aid in understanding the data. Below is the data dictionary for this project:
+The data dictionary provides information on the database including the contents, structure, format and relationship of the elements to aid in understanding the data. The data dictionary for this project is as shown. Examples of revenue figures have been redacted to protect the financial privacy of the company.
 
 ![Data Dictionary](https://github.com/sibineejokela/Store_Data_May2020/blob/master/images/Data_Dictionary.png)
 
@@ -153,8 +152,11 @@ The following insights are a quick snapshot of the discussion above:
 * The standard **Build-a-Notebook** offering was the *second highest revenue earning product* in 2019 (after general pens).
 
 #### Recommended actions for the company moving forward are as follows:
-* Double staff store 12 - 2 (+ fall evenings & winter holidays)
-* Schedule focus 3 - 4
-* Highlight products in the Focus and Travel sections. Starting with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards from the Focus section and Casio Watches and Habit Tracker Packs in the Travel section.
-* Utilize the Top Ten Revenue Earning Sections based on the Top Five Revenue Earning Products treemap to curate online store items
-* Use the Top Ten Revenue Earners (all days) to choose products to highlight
+* Double staff the store between 12pm - 2pm on an average day 
+* Double staff the store during December and January, and analyze hourly sales data by weekday to determine staffing specifics
+* Plan in-store focus time between 3 - 4pm
+* Highlight products from the Focus and Travel sections in-store and/or on social media
+  * From the Focus section, start with Manage Your Day-to-Day, The 90 Day Gratitude Journal, and Mindfulness on the Go Cards
+  * From the Travel section, start with Casio Watches and Habit Tracker Packs
+* Curate online store offerings using the Top Ten Revenue Earning Sections based on the Top Five Revenue Earning Products treemap from above
+* Use the Top 10 Revenue Earners (all days) treemap to choose products to highlight, add to mystery boxes, and feature for giveaways
